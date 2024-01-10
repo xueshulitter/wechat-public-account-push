@@ -46,6 +46,8 @@ const USER_CONFIG = {
         // 相识纪念日
         { keyword: 'meet_day', date: '2023-12-29' },
       ],
+       // 这样配置的话，就会每次发送这句话
+    { keyword: 'lover_prattle', contents: '因为太喜欢你，所以看谁都像是情敌' },
     },
   ],
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
