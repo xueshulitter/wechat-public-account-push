@@ -50,7 +50,7 @@ const USER_CONFIG = {
   ],
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    { keyword: 'lover_prattle', contents: '因为太喜欢你，所以看谁都像是情敌' },
+    { keyword: 'lover_prattle', contents: '今天刘玉麟也喜欢杜佳颖宝宝' },
     ],
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'd1KNA2wi68OZ4aA2UEZrDRFBWcPMTRsPJMymx_W8dco',
